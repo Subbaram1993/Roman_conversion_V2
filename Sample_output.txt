@@ -1,0 +1,6 @@
+3> c(roman_f).                      
+{ok,roman_f}
+4> roman_f:test_convert_roman(2020).
+MMXX
+ok
+5> 
